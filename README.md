@@ -1,5 +1,6 @@
 # Composite-Material-Plate-Solved-by-Fourier-Approach
 A Classical Analysis by Harmonic Function Iteration for a Plate with a Square Surface Load in the Centre and Simply Supported in All its borders
+Table-Implemetation
 
 ### Spanish & English versions also a OCTAVE code its avaliable
 *Images and Formulas supplied for better comprehension*
@@ -16,3 +17,5 @@ Functionalities:
  
 [![View Composite Material Plate Solved by Fourier Approach on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)]
 (https://la.mathworks.com/matlabcentral/fileexchange/87362-abd-matrix-composite-calculation)
+
+main
