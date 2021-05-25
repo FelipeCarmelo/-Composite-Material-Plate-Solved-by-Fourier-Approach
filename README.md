@@ -10,6 +10,7 @@ Analysis of a square plate of composite material supported in its borders with a
 
 OTHER COMPOSITE MATERIAL CODE
     [ABD] & [abd] composite calculator
+ 
 [![View Composite Material Plate Solved by Fourier Approach on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)]
 (https://la.mathworks.com/matlabcentral/fileexchange/87362-abd-matrix-composite-calculation)
 
