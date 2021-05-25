@@ -1,8 +1,8 @@
 # -Composite-Material-Plate-Solved-by-Fourier-Approach
-Classical analysis of a plate loaded in the centre and simply supported in all borders by harmonic function iteration
+A Classical Analysis of a Plate Loaded in the Centre and Simply Supported in All borders by Harmonic Function Iteration
 
-"Spanish" & "English" versions also a compatible OCTAVE code
-******* Images are supplied for better comprehension *******
+###"Spanish" & "English" versions also a OCTAVE code its avaliable
+** Images are supplied for better comprehension **
 Analysis of a square plate of composite material supported in its borders with a square surface load in the centre.
 * Use your own layer quantity and orientations
 * Get the 3D graphics and data for curvatures and deformations
