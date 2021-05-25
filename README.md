@@ -1,12 +1,12 @@
 # -Composite-Material-Plate-Solved-by-Fourier-Approach
-A Classical Analysis by Harmonic Function Iteration for a Plate Loaded in the Centre and Simply Supported in All its borders
+A Classical Analysis by Harmonic Function Iteration for a Plate with a Square Surface Load in the Centre and Simply Supported in All its borders
 
 ### Spanish & English versions also a OCTAVE code its avaliable
 *Images and Formulas supplied for better comprehension*
 
-Analysis of a square plate of composite material supported in its borders with a square surface load in the centre.
-* Use your own layer quantity and orientations
-* Get the 3D graphics and data for curvatures and deformations
+Functionalities
+* Use your own layer quantity and its orientations
+* Get the 3D graphics and data for curvatures / strains / stresses
 * Applies Tsai-Hill & Tsai-Wu as Failure Theories
 
 [![View Composite Material Plate Solved by Fourier Approach on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)]
