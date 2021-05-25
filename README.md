@@ -8,11 +8,11 @@ Analysis of a square plate of composite material supported in its borders with a
 * Get the 3D graphics and data for curvatures and deformations
 * Applies Tsai-Hill & Tsai-Wu as Failure Theories
 
+[![View Composite Material Plate Solved by Fourier Approach on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)]
+(https://la.mathworks.com/matlabcentral/fileexchange/85780-composite-material-plate-solved-by-fourier-approach)
+
 OTHER COMPOSITE MATERIAL CODE
     [ABD] & [abd] composite calculator
  
 [![View Composite Material Plate Solved by Fourier Approach on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)]
 (https://la.mathworks.com/matlabcentral/fileexchange/87362-abd-matrix-composite-calculation)
-
-[![View Composite Material Plate Solved by Fourier Approach on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)]
-(https://la.mathworks.com/matlabcentral/fileexchange/85780-composite-material-plate-solved-by-fourier-approach)
