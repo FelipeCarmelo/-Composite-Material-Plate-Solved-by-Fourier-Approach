@@ -17,5 +17,3 @@ Functionalities:
  
 [![View Composite Material Plate Solved by Fourier Approach on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)]
 (https://la.mathworks.com/matlabcentral/fileexchange/87362-abd-matrix-composite-calculation)
-
-main
